@@ -1,4 +1,4 @@
-<b style="font-size: 22px;">INDIAN SARS-CoV-2 GENOMIC CONSORTIA (INSACOG) - GENOME SEQUENCING DATA SUMMARY</b>
+<b style="font-size: 25px;">INDIAN SARS-CoV-2 GENOMIC CONSORTIA (INSACOG) - GENOME SEQUENCING DATA SUMMARY</b>
 
 This repository aims to provide an overview of SARS-CoV-2 genome sequencing initiatives undertaken by numerous institutes across India as a part of the Indian SARS-CoV-2 Genomic Consortia (INSACOG)
 
